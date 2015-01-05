@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:037675_0000_100F390FC6190130"/>
-            <pb facs="tcp:037675_0001_100F3913037B1D00"/>
+            <pb facs="unknown:037675_0000_100F390FC6190130"/>
+            <pb facs="unknown:037675_0001_100F3913037B1D00"/>
             <p>HYMNS AND ODES, COMPOSED ON THE DEATH OF Gen. George Waſhington: ADAPTED TO THE 22d. DAY OF FEBRUARY, AND DEDICATED TO Thoſe who pleaſe to ſing them!</p>
             <p>☞ Religious and ſocial aſſemblies cannot fail of being pleaſed with theſe various tributes of affection to the FATHER and the FRIEND of his Country. They may ſelect whatever ſuits them beſt, and mourn the Man of the age in ſublimeſt ſtrains. Theſe are the united offerings of Piety, Patriotiſm and Genius, at the ſhrine of WASHINGTON.</p>
             <p>☞ Many of them are pure Originals, never publiſhed before.</p>
@@ -126,7 +126,7 @@
       </front>
       <body>
          <div type="poems">
-            <pb facs="tcp:037675_0002_100F391605C79958"/>
+            <pb facs="unknown:037675_0002_100F391605C79958"/>
             <head>HYMNS ON THE DEATH OF Gen. WASHINGTON.</head>
             <div type="poem">
                <head>HYMN I. P. M.</head>
@@ -185,7 +185,7 @@
                   <l>Clear intellect, of paſſion pure,</l>
                   <l>Each act declar'd him wiſdom's fav'rite child,</l>
                   <l>
-                     <pb facs="tcp:037675_0003_100F39179120A8A8"/>Columbia's ſafety to ſecure,</l>
+                     <pb facs="unknown:037675_0003_100F39179120A8A8"/>Columbia's ſafety to ſecure,</l>
                   <l>The bold he vanquiſh'd, and the inſidious foil'd:</l>
                   <l>
                      <hi>But now our fate we muſt deplore,</hi>
@@ -249,7 +249,7 @@
                </lg>
             </div>
             <div type="poem">
-               <pb facs="tcp:037675_0004_100F391927FDAFA8"/>
+               <pb facs="unknown:037675_0004_100F391927FDAFA8"/>
                <head>SOLEMN DIRGE. L. M.</head>
                <byline>By Mr. RICHARDS, of Portſmouth, N. H. Sung at St. John's Church.</byline>
                <lg n="1">
@@ -297,7 +297,7 @@
                </lg>
             </div>
             <div type="poem">
-               <pb n="6" facs="tcp:037675_0005_100F391D6FD53D40"/>
+               <pb n="6" facs="unknown:037675_0005_100F391D6FD53D40"/>
                <head>ODE,</head>
                <byline>Written by Mrs. <hi>ROWSON,</hi> of <hi>Medford.</hi>
                </byline>
@@ -347,7 +347,7 @@
                <l>Much honor'd ſhade—the reſt is loſt to Heaven.</l>
             </div>
             <div type="poem">
-               <pb n="7" facs="tcp:037675_0006_100F391FC6E6B558"/>
+               <pb n="7" facs="unknown:037675_0006_100F391FC6E6B558"/>
                <head>MASONIC HYMN. C. M.</head>
                <byline>By Brother <hi>Geo. Richards,</hi> Portſmouth, N. H. Sung at St. John's Church.</byline>
                <lg n="1">
@@ -400,7 +400,7 @@
                </lg>
             </div>
             <div type="poem">
-               <pb n="8" facs="tcp:037675_0007_100F3921550180A0"/>
+               <pb n="8" facs="unknown:037675_0007_100F3921550180A0"/>
                <head>HYMN. L. M.</head>
                <byline>By <hi>Mr. Richards,</hi> Portſmouth, N. H.</byline>
                <lg n="1">
@@ -457,7 +457,7 @@
                   </l>
                </lg>
                <lg n="2">
-                  <pb n="9" facs="tcp:037675_0008_100F3922E4EE77C0"/>
+                  <pb n="9" facs="unknown:037675_0008_100F3922E4EE77C0"/>
                   <head>II.</head>
                   <l>Let ev'ry heart be fill'd with woe,</l>
                   <l>Let ev'ry eye with tears o'erflow,</l>
@@ -517,7 +517,7 @@
                   <l>At THY COMMAND, a nation ſprings</l>
                   <l>To LIFE; to LIBERTY ſublime:</l>
                   <l>
-                     <pb n="10" facs="tcp:037675_0009_100F39269A1640D0"/>At THY COMMAND, States, Empires, Kings,</l>
+                     <pb n="10" facs="unknown:037675_0009_100F39269A1640D0"/>At THY COMMAND, States, Empires, Kings,</l>
                   <l>Are ſwept adown the gulph of time.</l>
                </lg>
                <lg n="4">
@@ -573,7 +573,7 @@
                   <l>His country's ſhield deſign'd.</l>
                </lg>
                <lg n="4">
-                  <pb n="11" facs="tcp:037675_0010_100F25278A31B9D8"/>
+                  <pb n="11" facs="unknown:037675_0010_100F25278A31B9D8"/>
                   <head>IV.</head>
                   <l>Millions combin'd to lift his fame,</l>
                   <l>The world confeſs'd his matchleſs name!</l>
@@ -630,7 +630,7 @@
                   <l>And hear an EMPIRE's groan;</l>
                </lg>
                <lg n="2">
-                  <pb n="12" facs="tcp:037675_0011_100F392A6991CCC8"/>
+                  <pb n="12" facs="unknown:037675_0011_100F392A6991CCC8"/>
                   <head>II.</head>
                   <l>Wipe thou, O GOD, thoſe tears away,</l>
                   <l>That weep a FATHER's duſt;</l>
